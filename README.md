@@ -7,7 +7,7 @@ I ♥️ a simple stack of NextJS, React, Tailwind, and Typescript
 🗺️ In the last 3 years coding has allowed me to travel and live in the following countries: 
 Albania, Australia, Georgia, Greece, Japan, Malaysia, Montenegro, Serbia, and United Kingdom
     
-Having lived in such different countries i now appreciate well designed intuitive UI/UX. 
+Having lived in such different countries i ♥️ well designed intuitive UI/UX. 
 
 🌱 I’m currently learning: Functional Programming in Typescript
 
