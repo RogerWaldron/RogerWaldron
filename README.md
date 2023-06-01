@@ -16,7 +16,8 @@ Albania, Bulgaria, Georgia, Greece, Japan, Malaysia, Macedonia, Montenegro, Serb
     
 Having lived in such different countries i ♥️ well designed intuitive UI/UX. 
 
-### 🌱 I’m currently learning: Functional Programming in Typescript
+### 🌱 I’m currently learning: 
+* Functional Programming in Typescript
 
 ### 📝 I'm currently reading: 
   * [Programming with Types](https://www.manning.com/books/programming-with-types)
