@@ -11,14 +11,14 @@
   * Python 3 writing web scrapers
   
 
-###🗺️ In the last 3 years coding has allowed me to travel and live in the following countries: 
+### 🗺 In the last 3 years coding has allowed me to travel and live in the following countries: 
 Albania, Bulgaria, Georgia, Greece, Japan, Malaysia, Macedonia, Montenegro, Serbia, Turkey and United Kingdom
     
 Having lived in such different countries i ♥️ well designed intuitive UI/UX. 
 
-###🌱 I’m currently learning: Functional Programming in Typescript
+### 🌱 I’m currently learning: Functional Programming in Typescript
 
-###📝 I'm currently reading: 
+### 📝 I'm currently reading: 
   * [Programming with Types](https://www.manning.com/books/programming-with-types)
   * [Grokking Simplicity](https://www.manning.com/books/grokking-simplicity)
 
