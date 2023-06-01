@@ -1,11 +1,16 @@
 👋 Hi, I’m @RogerWaldron, a freelance web developer with:
-  * 2 years experience in React, Javascript, Typescript on NextJS.
-  * 1 year experience developing Wordpress Plugins in PHP
+  * 2 years experience 
+  ** React, Javascript, Typescript on NextJS.
+  ** Angular, RxJS
+  ** AWS serverless development
+  * 1 year experience developing 
+  ** Wordpress Plugins in PHP
+  ** Python 3 writing web scrapers
   
-I ♥️ a simple stack of NextJS, React, Tailwind, and Typescript
+I ♥️ Tailwind
 
 🗺️ In the last 3 years coding has allowed me to travel and live in the following countries: 
-Albania, Australia, Georgia, Greece, Japan, Malaysia, Montenegro, Serbia, and United Kingdom
+Albania, Australia, Bulgaria, Georgia, Greece, Japan, Malaysia, Macedonia, Montenegro, Serbia, and United Kingdom
     
 Having lived in such different countries i ♥️ well designed intuitive UI/UX. 
 
