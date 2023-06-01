@@ -1,13 +1,13 @@
 👋 Hi, I’m @RogerWaldron, a freelance web developer with:
 
-  ### 2 years experience 
+  ### 2 years full stack experience 
   * React, Javascript, Typescript on NextJS.
   * Angular, RxJS
   * AWS serverless development
   
   ### 1 year experience developing 
-  ** Wordpress Plugins in PHP
-  ** Python 3 writing web scrapers
+  * Wordpress Plugins in PHP
+  * Python 3 writing web scrapers
   
 I ♥️ Tailwind
 
