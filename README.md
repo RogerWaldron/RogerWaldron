@@ -4,7 +4,7 @@
 
 - [React](https://react.dev/) 16+, Javascript, [Typescript](https://www.typescriptlang.org/) on [NextJS](https://nextjs.org/)
 - [Angular](https://angular.io/) 8+, [NgRx](https://ngrx.io/), [RxJS](https://rxjs.dev/)
-- [Go (Golang)](https://go.dev/)
+- [Go ( Golang )](https://go.dev/)
 - serverless development on [Amazon Web Services](https://aws.amazon.com/) using [Serverless Framework](https://www.serverless.com/)
 - I ♥️ [Tailwind](https://tailwindcss.com/)
 
@@ -13,7 +13,7 @@
 - Wordpress Plugins in PHP
 - Python 3 writing web scrapers
 
-### :airplane: Coding has allowed me to travel and live in the following countries:
+### :airplane: Coding has allowed me to travel and live in:
 
 :albania: Albania, :bulgaria: Bulgaria, :georgia: Georgia, :greece: Greece, :jp: Japan, :malaysia: Malaysia, :macedonia: Macedonia, :montenegro: Montenegro, :serbia: Serbia, :tr: Turkey and :gb: United Kingdom
 
