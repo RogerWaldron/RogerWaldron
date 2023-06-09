@@ -13,9 +13,9 @@
 - Wordpress Plugins in PHP
 - Python 3 writing web scrapers
 
-### 🗺 In the last 3 years coding has allowed me to travel and live in the following countries:
+### 🗺 Coding has allowed me to travel and live in the following countries:
 
-Albania, Bulgaria, Georgia, Greece, Japan, Malaysia, Macedonia, Montenegro, Serbia, Turkey and United Kingdom
+:albania: Albania, :bulgaria: Bulgaria, :georgia: Georgia, :greece: Greece, :japan: Japan, :malaysia: Malaysia, :macedonia: Macedonia, :montenegro: Montenegro, :serbia: Serbia, :turkey: Turkey and :gb: United Kingdom
 
 Having lived in such different countries i ♥️ well designed intuitive UI/UX.
 
@@ -23,7 +23,13 @@ Having lived in such different countries i ♥️ well designed intuitive UI/UX.
 
 - Functional Programming in Typescript
 
-### 📝 I'm currently reading:
+### ♥️ Reading Manning Publications
+
+I'm currently reading:
+
+- [Shipping Go](https://www.manning.com/books/shipping-go)
+
+Recently read:
 
 - [Programming with Types](https://www.manning.com/books/programming-with-types)
 - [Grokking Simplicity](https://www.manning.com/books/grokking-simplicity)
