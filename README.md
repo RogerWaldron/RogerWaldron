@@ -2,8 +2,9 @@
 
 ### 2020 - now, full stack experience
 
-- React 16+, Javascript, Typescript on NextJS.
+- React 16+, Javascript, Typescript on NextJS
 - Angular 8+, NgRx, RxJS
+- Go aka GoLang
 - AWS serverless development
 - I ♥️ Tailwind
 
