@@ -15,7 +15,7 @@
 
 ### 🗺 Coding has allowed me to travel and live in the following countries:
 
-:albania: Albania, :bulgaria: Bulgaria, :georgia: Georgia, :greece: Greece, :japan: Japan, :malaysia: Malaysia, :macedonia: Macedonia, :montenegro: Montenegro, :serbia: Serbia, :turkey: Turkey and :gb: United Kingdom
+:albania: Albania, :bulgaria: Bulgaria, :georgia: Georgia, :greece: Greece, :jp: Japan, :malaysia: Malaysia, :macedonia: Macedonia, :montenegro: Montenegro, :serbia: Serbia, :tr: Turkey and :gb: United Kingdom
 
 Having lived in such different countries i ♥️ well designed intuitive UI/UX.
 
