@@ -19,17 +19,17 @@
 
 Having lived in such different countries i ♥️ well designed intuitive UI/UX.
 
-### 🌱 I’m currently learning:
+### I’m currently learning:
 
 - Functional Programming in Typescript
 
-### ♥️ Reading Manning Publications
+### Manning Publications
 
-I'm currently reading:
+:bookmark: I'm currently reading:
 
 - [Shipping Go](https://www.manning.com/books/shipping-go)
 
-Recently read:
+:books: Recently read:
 
 - [Programming with Types](https://www.manning.com/books/programming-with-types)
 - [Grokking Simplicity](https://www.manning.com/books/grokking-simplicity)
