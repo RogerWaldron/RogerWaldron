@@ -1,4 +1,4 @@
-👋 Hi, I’m @RogerWaldron, a freelance web developer with:
+👋 Hi I’m @RogerWaldron, a :australia: Australian freelance web developer with:
 
 ### 2020 - now, full stack experience
 
