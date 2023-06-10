@@ -1,6 +1,6 @@
 👋 G'day I’m @RogerWaldron, an :australia: Australian freelance web developer
 
-I've spent years drinking :coffee: and writing code while exploring the world.
+I've spent years drinking coffee and writing code while exploring the world.
 
 ### 2020 - now, full stack experience
 
@@ -23,6 +23,7 @@ Which is why now i :heart: :
 
 - accessible web design
 - intuitive UI / UX
+- simplicity
 
 ### Reading from Manning Publications
 
