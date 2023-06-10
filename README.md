@@ -1,4 +1,6 @@
-👋 Hi I’m @RogerWaldron, a :australia: Australian freelance web developer with:
+👋 G'day I’m @RogerWaldron, an :australia: Australian freelance web developer
+
+I've spent years drinking :coffee: and writing code while exploring the world.
 
 ### 2020 - now, full stack experience
 
@@ -28,10 +30,10 @@ Which is why now i :heart: :
 
 - [Shipping Go](https://www.manning.com/books/shipping-go)
 
-:books: recently read:
+:books: :heart: recently read:
 
 - [Programming with Types](https://www.manning.com/books/programming-with-types)
-- [Grokking Simplicity](https://www.manning.com/books/grokking-simplicity)
+- [Grokking Simplicity](https://www.manning.com/books/grokking-simplicity) 
 
 <!---
 RogerWaldron/RogerWaldron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
