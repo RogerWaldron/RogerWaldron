@@ -30,9 +30,10 @@ Which is why now i :heart: :
 :bookmark: currently reading:
 
 - [Shipping Go](https://www.manning.com/books/shipping-go)
+- [Microservices with Go](https://www.packtpub.com/product/microservices-with-go/9781804617007) By Alexander Shuiskov 
 
 :books: :heart: recently read:
-
+- [Functional Programming in Golang](https://www.packtpub.com/product/functional-programming-in-go/9781801811163)
 - [Programming with Types](https://www.manning.com/books/programming-with-types)
 - [Grokking Simplicity](https://www.manning.com/books/grokking-simplicity) 
 
