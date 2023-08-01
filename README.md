@@ -6,6 +6,8 @@ I've spent years drinking coffee and writing code while exploring the world.
 
 - [React](https://react.dev/) 16+, Javascript, [Typescript](https://www.typescriptlang.org/) on [NextJS](https://nextjs.org/)
 - [Angular](https://angular.io/) 8+, [NgRx](https://ngrx.io/), [RxJS](https://rxjs.dev/)
+- [.Net Framework](https://dotnet.microsoft.com/en-us/) 6+
+- [C#](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
 - [Go ( Golang )](https://go.dev/)
 - serverless development on [Amazon Web Services](https://aws.amazon.com/) using [Serverless Framework](https://www.serverless.com/)
 - I :heart: [Tailwind](https://tailwindcss.com/)
@@ -28,7 +30,7 @@ Which is why now i :heart: :
 ### Reading from Manning Publications
 
 :bookmark: currently reading:
-
+- [Functional Programming in C#](https://www.manning.com/books/functional-programming-in-c-sharp-second-edition)
 - [Shipping Go](https://www.manning.com/books/shipping-go)
 - [Microservices with Go](https://www.packtpub.com/product/microservices-with-go/9781804617007) By Alexander Shuiskov 
 
