@@ -8,7 +8,7 @@ developing minimal APIs, Dashboards, and Line of Business applications, using:
 
 - [React](https://react.dev/) 16+, Javascript, [Typescript](https://www.typescriptlang.org/) on [NextJS](https://nextjs.org/)
 - [Angular](https://angular.io/) 8+, [NgRx](https://ngrx.io/), [RxJS](https://rxjs.dev/)
-- [.Net Framework](https://dotnet.microsoft.com/en-us/) 6+, [Entity Framework](https://learn.microsoft.com/en-us/ef/), [LINQ](https://learn.microsoft.com/en-us/dotnet/csharp/linq/)
+- [.Net Framework](https://dotnet.microsoft.com/en-us/) 5+, [Entity Framework](https://learn.microsoft.com/en-us/ef/), [LINQ](https://learn.microsoft.com/en-us/dotnet/csharp/linq/)
 - [C#](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
 - [Go ( Golang )](https://go.dev/)
 - serverless development on [Amazon Web Services](https://aws.amazon.com/) using [Serverless Framework](https://www.serverless.com/)
